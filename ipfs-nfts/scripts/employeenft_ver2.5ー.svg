@@ -1,0 +1,26 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" style="background-color: #172853;">
+ <title>EmployeeNFT_Image</title>
+
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Arimo'" font-size="24" id="svg_3" y="74.82061" x="242.59793" stroke-width="0" fill="#ffffff" stroke="#9ACEE6" transform="matrix(1.11174 0 0 1.37965 -21.1841 -28.3464)">G COMPANY NFT</text>
+  <rect fill="#ffffff" stroke-width="0" x="81.00026" y="67" width="115" height="19" id="svg_6" stroke="#9ACEE6"/>
+  <path fill="#ffffff" stroke="#9ACEE6" stroke-width="0" opacity="undefined" d="m526.17765,64.64704l113.99999,0l0,19l-113.99999,0l0,-19z" id="svg_8"/>
+  <path fill="#0de877" stroke-width="0" d="m271.98914,181.54163l34.92858,-63.99999l93.14286,0l34.92856,63.99999l-34.92856,63.99999l-93.14286,0l-34.92858,-63.99999z" id="svg_16" stroke="#9ACEE6"/>
+  <text style="cursor: move;" fill="#000000" stroke-width="0" x="287.9161" y="197.57912" id="svg_19" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve" stroke="#9ACEE6" transform="matrix(1.96805 0 0 1.65613 -232.941 -134.326)">G</text>
+  <text fill="#ffffff" stroke="#9ACEE6" stroke-width="0" x="291.82417" y="288.05874" id="svg_22" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve">Your Name</text>
+  <rect fill="#ffffff" stroke-width="2" x="232.00065" y="307.76465" width="248" height="32" id="svg_23" stroke="#000000"/>
+  <text fill="#ffffff" stroke="#000000" stroke-width="0" x="153.35348" y="401.58817" id="svg_24" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve">Team：</text>
+  <text stroke="#000000" fill="#ffffff" stroke-width="0" x="126.64743" y="455.70591" id="svg_26" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve">Message:</text>
+  <text fill="#ffffff" stroke="#000000" stroke-width="0" x="274.35347" y="582.059" id="svg_32" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve">〒xxx-xxx</text>
+  <text fill="#ffffff" stroke="#000000" stroke-width="0" x="257.11813" y="624.6473" id="svg_33" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve">xxx-xxxx-xxx</text>
+  <rect fill="#ffffff" stroke-width="0" x="82.17673" y="30.76465" width="115" height="19" id="svg_2" stroke="#9ACEE6"/>
+  <rect fill="#ffffff" stroke-width="0" x="526.17764" y="29.76465" width="115" height="19" id="svg_4" stroke="#9ACEE6"/>
+  <rect fill="#ffffff" stroke-width="2" x="256.70669" y="373.64743" width="248" height="32" id="svg_5" stroke="#000000"/>
+  <rect stroke="#000000" fill="#ffffff" stroke-width="2" x="256.70669" y="431.29487" width="248" height="34.35295" id="svg_7"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Arimo'" font-size="24" id="svg_10" y="327.65144" x="311.18074" stroke-width="0" stroke="#000000" fill="#ffffff"/>
+  <text fill="#000000" stroke="#ffffff" stroke-width="0" x="324.76555" y="333.94139" id="svg_14" font-size="24" font-family="\'Arimo\'" text-anchor="start" xml:space="preserve">Name</text>
+  <text fill="#000000" stroke="#ffffff" stroke-width="0" x="274.17699" y="398.64769" id="svg_15" font-size="24" font-family="\'Arimo\'" text-anchor="start" xml:space="preserve">Department</text>
+  <text fill="#000000" stroke="#ffffff" stroke-width="0" x="274.17699" y="457.4716" id="svg_17" font-size="24" font-family="\'Arimo\'" text-anchor="start" xml:space="preserve">Message</text>
+ </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 300 300" width="300" height="300">
+   <text font-family="Arial" x="150" y="70" font-size="30" fill="red" text-anchor="middle">
+   Employee NFT
+   </text>
+   <rect x="50" y="120" width="200" height="60" stroke-width="5" stroke="yellow" fill="white" rx="10" ry="10"/>
+   <text font-family="Arial" x="150" y="160" font-size="30" fill="blue" text-anchor="middle">
+   Name
+   </text>
+</svg>

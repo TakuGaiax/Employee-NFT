@@ -1,0 +1,20 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+hardhat.config.js
+package-lock.json
+package.json
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+#front-end-files
+/utils
