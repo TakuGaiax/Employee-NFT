@@ -1,0 +1,3 @@
+   [submodule "nft-maker-starter-project"]
+       path = nft-maker-starter-project
+       url = https://github.com/TakuGaiax/nft-maker-starter-project.git
